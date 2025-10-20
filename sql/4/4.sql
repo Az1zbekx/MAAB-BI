@@ -9,7 +9,7 @@ INSERT INTO letters
 VALUES ('a'), ('a'), ('a'), 
   ('b'), ('c'), ('d'), ('e'), ('f');
 
--- (A) 'b' first
+
 SELECT letter
 FROM letters
 ORDER BY 
