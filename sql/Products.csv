@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price,Stock
+1,Laptop,Electronics,1500,5
+2,Smartphone,Electronics,900,0
+3,Tablet,Electronics,600,12
+4,Printer,Office,300,7
+5,Desk,Office,200,0
+6,Chair,Office,150,15
+7,Coffee,Food,20,50
+8,Tea,Food,15,0
+9,Chocolate,Food,10,8
+10,Headphones,Electronics,250,20

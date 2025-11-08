@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Salary,HireDate
+1,John,Doe,IT,95000,2020-03-15
+2,Jane,Smith,HR,60000,2019-06-10
+3,Michael,Brown,Finance,85000,2018-01-20
+4,Emily,Davis,IT,75000,2021-11-01
+5,Daniel,Wilson,Marketing,50000,2022-02-28
+6,Sarah,Johnson,Finance,48000,2020-09-12
+7,David,Lee,IT,120000,2017-07-30
+8,Linda,White,HR,70000,2019-05-05
+9,James,Harris,Marketing,55000,2021-08-16
+10,Mary,Martin,Finance,90000,2016-12-22

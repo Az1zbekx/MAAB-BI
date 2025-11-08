@@ -1,0 +1,11 @@
+OrderID,CustomerName,OrderDate,TotalAmount,Status
+101,Alpha Corp,2023-01-15,1500,Shipped
+102,Beta LLC,2023-03-10,2000,Pending
+103,Gamma Inc,2023-05-22,3000,Delivered
+104,Delta Co,2023-07-05,4000,Cancelled
+105,Epsilon Ltd,2023-09-30,2500,Shipped
+106,Zeta GmbH,2023-11-11,6000,Delivered
+107,Theta SA,2023-02-28,3500,Pending
+108,Iota PLC,2023-06-18,7000,Shipped
+109,Kappa Inc,2023-12-01,8000,Delivered
+110,Lambda Ltd,2023-04-25,1200,Cancelled
